@@ -1,0 +1,10 @@
+de\janroslan\easyorm\core\ColumnDefinition$DataType.class
+de\janroslan\easyorm\core\DataTypeConverter.class
+module-info.class
+de\janroslan\easyorm\core\ColumnDefinition$ForeignKeyRef.class
+de\janroslan\easyorm\core\DBManager.class
+de\janroslan\easyorm\utils\JsonUtils.class
+de\janroslan\easyorm\core\ConnectionHandle.class
+de\janroslan\easyorm\core\ColumnDefinition.class
+de\janroslan\easyorm\core\ConnectionProvider.class
+de\janroslan\easyorm\core\Table.class
